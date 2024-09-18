@@ -26,13 +26,24 @@
     font-style: normal;
     text-align: center;
     margin: 3%;
+    font-size: 60px;
   }
 
-  h3 {
+  h2 {
     color: white;
     font-family: "mono45-headline", monospace;
     font-weight: 300;
     font-style: normal;
     text-decoration: underline;
-    margin: 2%;
+    margin-left: 2%;
   }
+
+  h5 {
+    color: white;
+    font-family: "mono45-headline", monospace;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin-left: 2%;
+  }
+  
