@@ -1,3 +1,38 @@
 .navbar {
-    background-color: #0d0d0d;
+    background-color:#141414;
+  }
+
+  .nav-link {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 25px;
+    color: white;
+  }
+
+  .nav-link:hover {
+    color: #878787;
+  }
+
+  body {
+    background-image: url("imgs/ChildishGambino-bg.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    color: white;
+    font-family: "mono45-headline", monospace;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin: 3%;
+  }
+
+  h3 {
+    color: white;
+    font-family: "mono45-headline", monospace;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: underline;
+    margin: 2%;
   }
